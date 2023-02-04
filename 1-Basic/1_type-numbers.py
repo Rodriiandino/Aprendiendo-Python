@@ -2,6 +2,7 @@
 
 # The equal sign (=) is used to assign a value to a variable.
 
+#Variable
 spam = "spam"  # and this is the second comment
           # ... and now a third!
           
@@ -12,7 +13,7 @@ multiline comment takes multiple lines.
 python is eating the world
 """
 
-print("Hello Worlds") #Imprimir en consola
+print("Hello Worlds") #print to console
 print(spam)
 print(text)
 
@@ -46,6 +47,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 # Float: Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 # Complex Example 1 + j, 2 + 4j
 
+
 """String"""
 # A collection of one or more characters under a single or double quote. If a string is more than one sentence then we use a triple quote.
 
@@ -54,6 +56,7 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 # A boolean data type is either a True or False value. T and F should be always uppercase.
 #True  #  Is the light on? If it is on, then the value is True
 #False # Is the light on? If it is off, then the value is False
+
 
 """List"""
 # Python list is an ordered collection which allows to store different data type items. A list is similar to an array in JavaScript.
@@ -73,9 +76,11 @@ print(type((9.8, 3.14, 2.7)))    # Tuple
 # 'skills':['JS', 'React', 'Node', 'Python']
 # }
 
+
 """Tuple""" 
 # A tuple is an ordered collection of different data types like list but tuples can not be modified once they are created. They are immutable.
 # ('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya') # Names They are immutable.
+
 
 """Set"""
 # A set is a collection of data types similar to list and tuple. Unlike list and tuple, set is not an ordered collection of items. Like in Mathematics, set in Python stores only unique items.
