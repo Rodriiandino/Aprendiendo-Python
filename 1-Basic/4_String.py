@@ -17,4 +17,3 @@ print("Rodr" + (2 * "i")) #Rodrii
 # automatically concatenated.
 print("Rodr" "ii") #Rodrii
 # This only works with two literals though, not with variables or expressions
-
