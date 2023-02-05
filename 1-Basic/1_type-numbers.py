@@ -1,21 +1,15 @@
-# Hola Mundo "Comentario"
+# Hello World "Comment"
 
-# The equal sign (=) is used to assign a value to a variable.
+# comments are ignored when executing the program
+#print to console          
+print("Hello Worlds")  #and this is the second comment
 
-#Variable
-spam = "spam"  # and this is the second comment
-          # ... and now a third!
-          
-text = "# This is not a comment because it's inside quotes."
-
+                        # ... and now a third!
+                        
 """This is multiline comment
 multiline comment takes multiple lines.
 python is eating the world
 """
-
-print("Hello Worlds") #print to console
-print(spam)
-print(text)
 
 #NUMBERS
 
