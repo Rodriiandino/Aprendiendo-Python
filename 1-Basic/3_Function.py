@@ -41,7 +41,7 @@ print(num_str)                  # '10'
 
 # str to int or float
 num_str = '10.6'
-print('num_int', int(num_str))      # 10
+# print('num_int', int(num_str))      # 10
 print('num_float', float(num_str))  # 10.6
 
 # str to list
